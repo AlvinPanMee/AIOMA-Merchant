@@ -1,0 +1,2 @@
+rootProject.name = "AIOMA Merchant"
+include ':app'

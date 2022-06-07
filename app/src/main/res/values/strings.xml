@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">AIOMA Merchant</string>
+    <string name="hello_world">AIOMA Merchant Home</string>
+    <string name="blank"> </string>
+
+    <!--StartActivity-->
+    <string name="welcome_to">Welcome to</string>
+    <string name="aioma"><u>   AIOMA   </u></string>
+    <string name="merchant">Merchant</string>
+    <string name="welcome_to_aioma_merchant">Welcome to <b>AIOMA Merchant</b></string>
+    <string name="welcome_message">Grant and create membership benefits for your customer through AIOMA Merchant. </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+
+    <!--SignUp & SignIn-->
+    <string name="merchant_register">Merchant Register</string>
+    <string name="merchant_name">Merchant Name</string>
+    <string name="email">Merchant Email</string>
+    <string name="type">Type of Business</string>
+    <string name="select_type_hint">Tap to select type</string>
+    <string name="enter_type_hint">Enter Business Type</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="insert_logo">Insert Logo: </string>
+    <string name="choose_file">Choose File </string>
+    <string name="sign_in_message">Already a merchant on AIOMA? <u>Sign In</u></string>
+    <string name="sign_up_message">Has not registered as an AIOMA Merchant? <u>Sign Up</u></string>
+    <string name="insert_logo_here">Insert Logo Here</string>
+    <string name="insert_logo_message">Merchant/Brand Logo</string>
+    <string name="forget_password"><u>Forget Password?</u></string>
+    <string name="forget_password_title">Forget Password?</string>
+    <string name="email_message">Enter your email address</string>
+    <string name="send_email">Send Email Verification</string>
+    <string name="sent_message">Email sent successfully.</string>
+    <string name="free_title">Is the Membership free?</string>
+    <string name="yes">Yes</string>
+
+    <!--Dialog Merchant Type Picker-->
+    <string name="food_and_beverage">Food &amp; Beverage</string>
+    <string name="apparel">Apparel</string>
+    <string name="cafe">Cafe</string>
+    <string name="Grocery">Grocery</string>
+    <string name="others">Others:</string>
+
+    <!--Home Page-->
+    <string name="sign_out">Sign Out</string>
+    <string name="enter_points"><b> Enter Points: </b></string>
+    <string name="generate_QR_code">Generate QR Code</string>
+    <string name="input_points_hint">Enter points to grant here.</string>
+    <string name="merchant_PFP_message">Tap to allow customer to add membership</string>
+
+    <string name="grant_points_to_user">Grant Points To User</string>
+    <string name="membership_verified">Membership Verified</string>
+
+    <!--QR Code Activity-->
+    <string name="scan_message">Scan the QR Code</string>
+    <string name="edit">Change Points</string>
+
+    <!--Reward Activity & Create Reward Activity-->
+    <string name="rewards">Rewards</string>
+    <string name="create_reward">+ Create Reward</string>
+    <string name="create_reward_title">Create Reward</string>
+    <string name="reward_title">Reward Title</string>
+    <string name="points_required">Points Required</string>
+    <string name="reward_desc">Reward/Voucher Description</string>
+    <string name="reward_policy">Reward Policy</string>
+    <string name="create_reward_message">Create Rewards/Voucher for your members to enjoy</string>
+
+
+    <!--QR Scanner Activity -->
+    <string name="result">Result</string>
+    <string name="confirm_reward_redemption">Confirm Reward Redemption</string>
+    <string name="reward_name_title">Reward Title: </string>
+    <string name="username_title">Username: </string>
+    <string name="username">Username</string>
+    <string name="reward_desc_title">Reward/Voucher Description: </string>
+    <string name="merchant_title">Merchant: </string>
+    <string name="merchant_id">Merchant ID: </string>
+    <string name="date_title">Date: </string>
+    <string name="date">date </string>
+    <string name="scan_again">Scan Again</string>
+    <string name="confirm">Confirm</string>
+
+
+    <!--Edit Reward Activity-->
+    <string name="edit_reward_icon_message">Tap to change reward icon</string>
+    <string name="save_change">Save Change</string>
+    <string name="delete_reward">Delete Reward</string>
+    <string name="delete_reward_message">Are you sure you want to delete this reward?</string>
+
+    <!--Profile Activity-->
+    <string name="edit_merchant">Edit Merchant</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_merchantPFP_message">Tap to add/change profile picture</string>
+    <string name="merchant_name_title">Merchant Name: </string>
+    <string name="email_title">Email: </string>
+    <string name="type_title">Type: </string>
+
+
+    <!-- Confirm Password Dialog-->
+    <string name="enter_password_title">Enter Password</string>
+    <string name="confirm_password_message">Note: Changing email will change your email for login credentials as well.</string>
+    <string name="incorrect_password">Incorrect Password</string>
+    <string name="error_message">Error Message</string>
+
+    <!--Change Password Activity-->
+    <string name="enter_current_password">Enter Current Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+
+
+</resources>
